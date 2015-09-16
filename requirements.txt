@@ -1,0 +1,4 @@
+SQLAlchemy==1.0.8
+psycopg2==2.6.1
+GeoAlchemy2==0.2.5
+progressbar2==2.7.3
